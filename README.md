@@ -1,6 +1,6 @@
 # Hospital API
 
-## Hosted link: https://placement-cell-etvi.onrender.com/
+## Hosted link: https://placement-cell-gw1f.onrender.com
 
 ### Problem Statement
 >A company wants to maintain a database of all the students and their interview related details, create an
